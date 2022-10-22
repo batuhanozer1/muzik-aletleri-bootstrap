@@ -1,0 +1,11 @@
+{
+    "workbench.activityBar.visible": true,
+    "workbench.view.alwaysShowHeaderActions": true,
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "debug.showSubSessionsInToolBar": false,
+    "editor.inlayHints.padding": false,
+    "editor.stickyTabStops": true,
+    "editor.experimental.stickyScroll.enabled": true
+}

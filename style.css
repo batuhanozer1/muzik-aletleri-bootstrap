@@ -1,0 +1,17 @@
+article, section{
+    background-color:  #E9ECEF;
+}
+li>a{
+    color: white;
+}
+li>a:hover{
+    background-color:#007bff;
+    color: white;
+}
+.aletler{
+    list-style-type:none;
+    text-align: center;
+}
+body{
+        background-color: #E9ECEF ;
+}
